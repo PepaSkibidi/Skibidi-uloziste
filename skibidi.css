@@ -2,5 +2,9 @@ body {
     background-color: whitesmoke;
     color: black;
     font-family: Arial, sans-serif; }
-    h1{text-align: center;}
-    h2{text-align margin-left;}
+    h1{margin-left: 800px;}
+    h2{ margin-left: 200px}
+    h3{margin-left: 200px;}
+    h4{margin-left: 200px;}
+    img{margin-left: 200px;}
+    p{margin-left: 200px;}
